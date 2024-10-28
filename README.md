@@ -8,10 +8,10 @@
 ### [Projet 4 : quizzler](https://github.com/taphakebe99/quizzler.git)
 ### [Projet 5 : BMI](https://github.com/taphakebe99/BMI.git)
 ### [Projet 6 : clima](https://github.com/taphakebe99/clima.git)
-### [Projet 6 : mon Cycle Menstruel](https://github.com/taphakebe99/monCycleMenstruel.git)
-### [Projet 6 : bitcoin ticker](https://github.com/taphakebe99/bitcoin_ticker.git)
-### [Projet 6 : flash chat](https://github.com/taphakebe99/flash_chat.git)
-### [Projet 6 : toDoey](https://github.com/taphakebe99/todoey.git)
+### [Projet 7 : mon Cycle Menstruel](https://github.com/taphakebe99/monCycleMenstruel.git)
+### [Projet 8 : bitcoin ticker](https://github.com/taphakebe99/bitcoin_ticker.git)
+### [Projet 9 : flash chat](https://github.com/taphakebe99/flash_chat.git)
+### [Projet 10 : toDoey](https://github.com/taphakebe99/todoey.git)
 
 
 
